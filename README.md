@@ -12,8 +12,8 @@ FOLDER STRUCTURE
 
 The project folder is organized as follows:
 
-Data
-Contains the Reddit data gathered for the analysis, including comments, posts and related metadata.
+Data.zip
+Compressed file containing the Reddit data gathered for the analysis, including comments, posts and related metadata.
 
 SMA_Project_Maggiore_Noè
 Contains the single notebook used for data processing, network construction, social network analysis, community detection, and sentiment analysis.
